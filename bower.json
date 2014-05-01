@@ -1,0 +1,19 @@
+{
+  "name": "loading-wave-demo",
+  "version": "0.0.1",
+  "homepage": "http://revathskumar.github.io/loading-wave",
+  "authors": [
+    "Revath S Kumar <rsk@revathskumar.com>"
+  ],
+  "description": "Demo for loading-wave component",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
