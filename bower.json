@@ -1,0 +1,24 @@
+{
+  "name": "loading-wave",
+  "version": "0.0.1",
+  "authors": [
+    "Revath S Kumar <rsk@revathskumar.com>"
+  ],
+  "description": "Loading wave indicator",
+  "main": "loading-wave.html",
+  "keywords": [
+    "loader",
+    "web-components",
+    "wave",
+    "css-loading"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
