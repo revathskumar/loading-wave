@@ -1,0 +1,35 @@
+{
+  "name": "loading-wave",
+  "version": "0.0.1",
+  "authors": [
+    "Revath S Kumar <rsk@revathskumar.com>"
+  ],
+  "description": "Loading wave indicator",
+  "main": "loading-wave.html",
+  "keywords": [
+    "loader",
+    "web-components",
+    "wave",
+    "css-loading"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/revathskumar/loading-wave",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "af2ec8c3771df78e042be1839507f994ce326776"
+  },
+  "_source": "git://github.com/revathskumar/loading-wave.git",
+  "_target": "~0.0.1",
+  "_originalSource": "loading-wave",
+  "_direct": true
+}
